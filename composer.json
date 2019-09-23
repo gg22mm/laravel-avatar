@@ -1,0 +1,21 @@
+{
+    "name": "wll/cxp",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+	"keywords":["laravel-avatar","laravel"],
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "gg22mm",
+            "email": "gg22mm@qq.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Wll\\Cxp\\Avatar\\": "src"
+		}
+	},
+    "minimum-stability": "dev"
+}
