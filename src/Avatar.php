@@ -1,6 +1,6 @@
 <?php
 
-namespace Wll\Cxp\Avatar;			//包里会自动省略src
+namespace Wll\Cxp\Avatar;			//包里会自动省略src 1
 use Illuminate\Config\Repository;	//调用config 配置
 
 class Avatar {
